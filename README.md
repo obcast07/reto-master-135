@@ -1,6 +1,7 @@
 # Guía de estudio 📚
 
-![Azure](https://www.cice.es/wp-content/uploads/2020/06/AZ-900-Microsoft-Certified-Azure-Fundamentals.png)
+
+<img align="left" alt="La nube" width="300px" src="https://www.cice.es/wp-content/uploads/2020/06/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" />
 
 # Qué es Azure?
 
