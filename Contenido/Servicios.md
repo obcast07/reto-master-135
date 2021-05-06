@@ -17,4 +17,4 @@ Un proveedor de servicios proporciona el software y las aplicaciones a través d
 
 
 
-<img align="left" alt="La nube" width="100px" src="https://user-images.githubusercontent.com/83681168/117231066-09976e80-ade4-11eb-8c17-8a5b6e2f2b57.png" />
+<img align="left" alt="La nube" src="https://user-images.githubusercontent.com/83681168/117231066-09976e80-ade4-11eb-8c17-8a5b6e2f2b57.png" />
