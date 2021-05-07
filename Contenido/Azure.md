@@ -27,6 +27,9 @@ Azure le brinda la libertad de crear, administrar e implementar aplicaciones en 
   
   Azure Marketplace está diseñado para profesionales de TI y desarrolladores de la nube interesados en software comercial y de TI. 
   Los socios de Microsoft también lo utilizan como punto de lanzamiento para todas las actividades conjuntas de comercialización.
+  
+   ##  Servicios de Azure
+ ![img](https://github.com/obcast07/reto-master-135/blob/main/Contenido/img/ServiciosAzure.png)
 
 
 
