@@ -13,3 +13,7 @@ La nube es el nombre que se le da al servicio de almacenamiento de datos a servi
 | ------------- | ------------- | ------------- | ------------- | 
 | Está disponible para cualquier usuario de internet.  | Disponibilidad limitada, servicios ofrecidos a través de una red empresarial.  | Proviene de la combinación de las primeras 2, se almacenan datos en nubes ya sea públicas o privadas dependiendo de las necesidades | Consiste en el desplazamiento de distintos servicios a través de varias nubes |
 
+### Ventajas de usar la nube
+
+![img](https://github.com/obcast07/reto-master-135/blob/main/Contenido/img/VentajasNube.png)
+
