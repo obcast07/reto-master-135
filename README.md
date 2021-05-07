@@ -10,5 +10,3 @@
   + [¿Qué es?](https://github.com/obcast07/reto-master-135/blob/main/Contenido/Azure.md)
   + [La nube](https://github.com/obcast07/reto-master-135/blob/main/Contenido/La%20nube.md)
   + [Tipos de servicios en la nube](https://github.com/obcast07/reto-master-135/blob/main/Contenido/Servicios.md)
-  + [Azure](https://github.com/obcast07/reto-master-135/blob/main/Contenido/Azure.md)
-
